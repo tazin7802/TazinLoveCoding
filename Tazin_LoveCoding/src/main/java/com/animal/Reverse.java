@@ -15,6 +15,7 @@ public class Reverse {
 			reverse=reverse+s.charAt(i);
 		}
 		System.out.println(reverse);
+		System.out.println("I love coding" );
 	}
 	
 
